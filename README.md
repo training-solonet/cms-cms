@@ -15,4 +15,4 @@
  
 # Screenshot
 
-<img align="center" src="public\img\home.jpg" />
+<img align="center" src="public\foto\1.jpg" />
