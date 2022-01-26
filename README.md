@@ -22,7 +22,7 @@
 
 <img align="center" src="public\foto\3.jpg" />
 
-<img align="center" src="public\foto\3.jpg" />
+<img align="center" src="public\foto\7.jpg" />
 
 <img align="center" src="public\foto\8.jpg" />
 
