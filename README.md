@@ -14,4 +14,5 @@
  - Jalankan Project -> jalankan perintah di vscode -> <b>php artisan serve</b>
  
 # Screenshot
-     <img align="center" src="public\foto\1.jpg" />
+
+<img align="center" src="public\img\home.jpg" />
