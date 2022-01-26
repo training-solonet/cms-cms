@@ -22,6 +22,8 @@
 
 <img align="center" src="public\foto\3.jpg" />
 
+<img align="center" src="public\foto\3.jpg" />
+
 <img align="center" src="public\foto\8.jpg" />
 
 <img align="center" src="public\foto\9.jpg" />
