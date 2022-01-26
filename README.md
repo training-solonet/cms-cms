@@ -14,4 +14,4 @@
  - Jalankan Project -> jalankan perintah di vscode -> <b>php artisan serve</b>
  
 # Screenshot
-   
+     <link href="{{url('style/css/styles.css')}}" rel="stylesheet" />
